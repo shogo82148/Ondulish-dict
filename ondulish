@@ -1,0 +1,1 @@
+mecab -Oyomi | mecab -d final --node-format=%f[0] --eos-format='\n'

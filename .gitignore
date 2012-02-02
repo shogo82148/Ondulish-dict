@@ -1,0 +1,7 @@
+
+*.result
+*.sen
+/seed/corpus
+/seed/model
+/seed/model.txt
+/seed/sys.dic
